@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class calculator extends Validate{
     @Override
-    protected void veiwAndEdit() {
+    protected void update() {
         // TODO Auto-generated method stub
         
     }
@@ -14,7 +14,7 @@ public class calculator extends Validate{
     }
 
     @Override
-    protected void delete() {
+    protected void create() {
         // TODO Auto-generated method stub
         
     }

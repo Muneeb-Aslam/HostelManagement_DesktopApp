@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class attendance extends Validate{
     protected int nod=0;
     @Override
-    protected void veiwAndEdit() {
+    protected void update() {
         // TODO Auto-generated method stub
         
     }
@@ -15,7 +15,7 @@ public class attendance extends Validate{
     }
 
     @Override
-    protected void delete() {
+    protected void create() {
         // TODO Auto-generated method stub
         
     }

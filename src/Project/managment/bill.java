@@ -28,4 +28,5 @@ public class bill extends attendance{
         total=mess()+laundary+internet+barer+extraMess;
         System.out.println(total); //gui per dikhana ha 
     }
+
 }
